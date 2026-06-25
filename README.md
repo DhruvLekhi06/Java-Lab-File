@@ -20,6 +20,8 @@
 
 **Section:** B1
 
+**Lab Slot:** L19 + L20, L39 + L40
+
 ---
 
 # Submitted To
